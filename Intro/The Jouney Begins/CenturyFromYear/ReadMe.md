@@ -16,7 +16,7 @@ For ```year = 1700```, the output should be ```centuryFromYear(year) = 17```.
 
 A positive integer, designating the year.
 
-- *Guaranteed constraints:*
+ *Guaranteed constraints:*
 
 ```1 ≤ year ≤ 2005.```
 
