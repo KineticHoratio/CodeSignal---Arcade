@@ -20,7 +20,7 @@ For ```inputString = "a", the output should be ```checkPalindrome(inputString) =
 
 A non-empty string consisting of lowercase characters.
 
-- *Guaranteed constraints:*
+ *Guaranteed constraints:*
 
 ```1 ≤ inputString.length ≤ 105.```
 
