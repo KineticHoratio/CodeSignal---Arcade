@@ -16,7 +16,7 @@ For ```param1 = 1``` and ```param2 = 2 ```, the output should be ```add(param1, 
 
 * **[input] integer param2**
 
-- *Guaranteed constraints:* 
+ *Guaranteed constraints:* 
 
 ```-1000 ≤ param2 ≤ 1000.```
 
