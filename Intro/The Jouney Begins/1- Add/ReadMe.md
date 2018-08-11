@@ -23,7 +23,3 @@ For ```param1 = 1``` and ```param2 = 2 ```, the output should be ```add(param1, 
 * **[output] integer**
 
 The sum of the two inputs.
-
-# Cálculo de los pagos de un Call
-def call_payoff(ST, K):
-    return max(0, ST-K)
